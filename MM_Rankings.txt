@@ -1,0 +1,25 @@
+Countries Most Sales Transactions:
+Trinidad and Tobago: 321
+Guinea: 318
+Cape Verde: 314
+Maldives: 311
+Finland: 310
+Democratic Republic of the Congo: 308
+Samoa: 306
+Malta: 305
+China: 303
+South Sudan: 302
+The country we should build our shipping center in is Finland because it's the country with the highest sales that's also nowhere near the other shipping centers. Cape Verde has higher sales than Finland, but it's near Guinea where a shipping center already is.
+
+Sales Channels:
+Online: 30183
+Offline: 19788
+We do more online sales.
+
+Order Priorities:
+C: 5012
+H: 15094
+L: 9984
+M: 19881
+We do the most M order priorities.
+
