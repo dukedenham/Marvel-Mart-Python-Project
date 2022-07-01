@@ -1,3 +1,4 @@
 # Marvel-Mart-Python-Project
 
-Marvel Mart project 
+This is a project completed on a fictional department store called Marvel Mart and its orders from various different countries. Analytics reports were created to 
+
